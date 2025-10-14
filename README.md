@@ -1,1 +1,3 @@
-Example for 10 Long and 10 Short Trades. 
+# Multi-Market Screener (Long/Short)
+
+Siehe README im Chat.
